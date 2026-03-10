@@ -45,7 +45,7 @@ int main() {
 
     // Creating two bank account objects
     BankAccount acc1(101, "John", 5000);
-    BankAccount acc2(102, "Mary", 3000);
+    BankAccount acc2(102, "Rashid", 3000);
 
     // Display account details
     acc1.displayAccount();
